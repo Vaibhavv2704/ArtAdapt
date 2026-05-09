@@ -1,6 +1,6 @@
 tensorflow==2.15.0
+tensorflow-hub==0.16.1
 protobuf<=3.20.3
-tensorflow-hub==0.12.0
+streamlit
 numpy
-matplotlib
 Pillow
